@@ -20,3 +20,4 @@ Create your first Pull Request 🔥(PR).
 4) Generate a new Pull Request and Make the contribution.
 5) Happy Coding! :)
 
+### All issues would be assigned from 7th Oct 2021 12:00IST and PRs would be mereged by 18:00IST.
