@@ -1,0 +1,4 @@
+1) Please mention the language extension in your file name.
+2) Make your Filename easy to understand.
+3) In 1 PR do not add multiple programs.
+4) Please check whether the given program is already present in the repository or not.
