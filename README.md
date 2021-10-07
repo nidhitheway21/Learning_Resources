@@ -19,12 +19,19 @@ Create your first Pull Request 🔥(PR).
 ![image](https://user-images.githubusercontent.com/62661565/136343512-77eb0745-7d0e-435a-bdee-134ee39e3530.png)
 
 <div align="left">
-    2) Click on Add File button and select Create new file button in your personal copy of this repository or you can add file by dragging and dropping files from your PC in the upload files window.
+    <pre>Refer to <a href="https://github.com/ajinkyabodke/Learning_Resources/blob/main/contribution-ideas">contribution ideas</a> if you dont have an existing project and would like to contribute this repository.</pre>  
+</div>
+
+<div align="left">
+    2) Click on Add File button and select Create new file button in your personal copy of this repository(forked repo) or you can add file by dragging and dropping files from your PC in the upload files window.
 </div>
 
 ![image](https://user-images.githubusercontent.com/62661565/136341754-d8ee19c4-ffe6-41c4-bcd9-0215ef23272e.png)
 
-3)Set the file name with (FileName).java (FileName).py or (FileName).c or (FileName).cpp or (FileName).cs or (FileName).kt or (FileName).js according to the lanuage in which      you are writing the program
+3)Set the file name in the format filename.extension for example (FileName).java (FileName).py or (FileName).c or (FileName).cpp or (FileName).cs or (FileName).kt or (FileName).js according to the lanuage in which you are writing the program.
+
+![image](https://user-images.githubusercontent.com/62661565/136347300-220aa6a5-28bc-479e-847c-4847d034a55a.png)
+
 
 <div align="left">
     <pre>4)Then write your code and hit commit changes button present below the text editor.</pre>
