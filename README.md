@@ -57,7 +57,7 @@ Not sure how to do your first Pull Request? No worries, lets get you started.
 ![image](https://user-images.githubusercontent.com/62661565/135964176-e65bb8c1-41ab-463e-a771-6f7ea97e274d.png)
 
 <div align="left">
-Refer <a href="https://github.com/ajinkyabodke/CPP-Java_Resorces/blob/main/guidlines.txt">guidelines</a> before submitting any PR and make sure you follow all the guidlines mentioned so that you PR gets merged at the earliest.
+Refer <a href="https://github.com/ajinkyabodke/CPP-Java_Resorces/blob/main/guidelines.txt">guidelines</a> before submitting any PR and make sure you follow all the guidelines mentioned so that you PR gets merged at the earliest.
 
 Review the changes in the Pull Request and then Create Pull Request.
 
