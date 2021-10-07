@@ -1,0 +1,8 @@
+If you follow all the guidelines correctly it would help us to filter spam PRs and merge your PRs at the earliest.
+
+1)Make sure you star the repo first.
+2)Please mention the language extension in your file name.
+3) Make your Filename easy to understand.
+4)In 1 PR do not add multiple programs.
+5)Please check whether the given program is already present in the repository or not.
+6)Drop a follow after submitting your PR
