@@ -8,8 +8,15 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 👉 <a href="https://hacktoberfest.digitalocean.com/">Official HacktoberFest Page</a> 👈
 
-## 👕 HacktoberFest- Get your Free T-shirt Now.
-Create your first Pull Request 🔥(PR).
+## 👕 Contribute to open-soucre and grab your Hacktoberfest schwags ( Free T-Shirt & Goodies).
+You need to create 4 Pull Request (PR) to grab goodies.
+
+
+![image](https://user-images.githubusercontent.com/64553247/136261073-a6cf1ead-4c46-4f80-ae2e-739f036c6971.png)
+
+
+Not sure how to do your first Pull Request? No worries, lets get you started.
+
 
 ### 👣 Steps to Make your 1st PR Contribution:
 <div align="left">
