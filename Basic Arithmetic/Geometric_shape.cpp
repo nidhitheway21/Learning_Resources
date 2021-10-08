@@ -20,7 +20,8 @@ int main()
         double r;const double pi=3.142;
            cout<<"Enter Radius:";
               cin>>r;
-         area=pi*pow(r,2);  
+         area=pi*pow(r,2);
+         cout<<"Area: "<<area<<endl;  
        break;
    }
    case 2:
@@ -29,6 +30,7 @@ int main()
         cout<<"Enter length:";
            cin>>l;
         area=pow(l,2);
+        cout<<"Area: "<<area<<endl;
       break;   
    }
     case 3:
@@ -39,6 +41,7 @@ int main()
            cout<<"Enter width:";
                cin>>w;
             area=l*w;
+            cout<<"Area: "<<area<<endl;
        break;
     }
     case 4:
@@ -49,6 +52,7 @@ int main()
           cout<<"Enter height:";
              cin>>h;
          area=h*b/2;
+         cout<<"Area: "<<area<<endl;
           break;
     }
    default:
@@ -56,8 +60,5 @@ int main()
        cout<<"Press only 1,2,3 or 4:";
        break;
    }
-               
-    cout<<"Area: "<<area<<endl;
-
         return 0;
 }
