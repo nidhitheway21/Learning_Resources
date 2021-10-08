@@ -68,3 +68,10 @@ Review the changes in the Pull Request and then Create Pull Request.
 </div>
 
 ### All issues would be assigned from 8th Oct 2021 12:00IST and PRs would be mereged by 18:00IST.
+
+<div align="center">
+    <pre>Stargazers</pre>
+</div>
+
+[![Stargazers repo roster for @ajinkyabodke/Learning_Resources](https://reporoster.com/stars/dark/ajinkyabodke/Learning_Resources)](https://github.com/ajinkyabodke/Learning_Resources/stargazers)
+
