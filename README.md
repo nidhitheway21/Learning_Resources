@@ -67,8 +67,6 @@ Review the changes in the Pull Request and then Create Pull Request.
 
 </div>
 
-### All issues would be assigned from 8th Oct 2021 12:00IST and PRs would be mereged by 18:00IST.
-
 <div align="center">
     <pre>Stargazers</pre>
 </div>
