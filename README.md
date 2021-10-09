@@ -64,6 +64,11 @@ Review the changes in the Pull Request and then Create Pull Request.
 4) Once you successfully submit the Pull Request,our team would verify it and merge it.
 
 5) Happy Contributing! :)
+    
+6)You can also head over to <a href="https://github.com/codedamn/codedamn-hacktoberfest-projects">Codedamn Repo</a> to make further contributions.
+    
+
+## Make sure to vist <a href="https://codedamn.com/referred-by/ajinkyab">Codedamn</a> to get great free learning resources for web development.     
 
 </div>
 
